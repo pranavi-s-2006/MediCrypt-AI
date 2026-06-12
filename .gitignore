@@ -1,0 +1,16 @@
+.env
+uploads/
+generated/
+__pycache__/
+venv/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+node_modules/
+frontend/dist/
+.DS_Store
+Thumbs.db

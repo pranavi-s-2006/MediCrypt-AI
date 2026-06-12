@@ -1,0 +1,12 @@
+[
+  {"drug_a": "warfarin", "drug_b": "aspirin", "level": "High", "description": "Significantly increased risk of bleeding. Monitor INR closely.", "mechanism": "Pharmacodynamic synergy"},
+  {"drug_a": "metformin", "drug_b": "alcohol", "level": "Medium", "description": "Risk of lactic acidosis. Avoid alcohol consumption.", "mechanism": "Metabolic interaction"},
+  {"drug_a": "simvastatin", "drug_b": "amiodarone", "level": "High", "description": "Increased risk of myopathy and rhabdomyolysis.", "mechanism": "CYP3A4 inhibition"},
+  {"drug_a": "digoxin", "drug_b": "amiodarone", "level": "High", "description": "Amiodarone increases digoxin levels, risk of toxicity.", "mechanism": "P-glycoprotein inhibition"},
+  {"drug_a": "ssri", "drug_b": "tramadol", "level": "High", "description": "Risk of serotonin syndrome. Avoid combination.", "mechanism": "Serotonergic synergy"},
+  {"drug_a": "ciprofloxacin", "drug_b": "theophylline", "level": "Medium", "description": "Ciprofloxacin raises theophylline levels.", "mechanism": "CYP1A2 inhibition"},
+  {"drug_a": "lithium", "drug_b": "ibuprofen", "level": "Medium", "description": "NSAIDs can raise lithium levels causing toxicity.", "mechanism": "Renal clearance reduction"},
+  {"drug_a": "clopidogrel", "drug_b": "omeprazole", "level": "Medium", "description": "Omeprazole reduces clopidogrel antiplatelet effect.", "mechanism": "CYP2C19 inhibition"},
+  {"drug_a": "methotrexate", "drug_b": "nsaids", "level": "High", "description": "NSAIDs reduce methotrexate clearance, risk of toxicity.", "mechanism": "Renal tubular competition"},
+  {"drug_a": "sildenafil", "drug_b": "nitrates", "level": "Critical", "description": "Severe hypotension. Contraindicated combination.", "mechanism": "Additive vasodilation"}
+]

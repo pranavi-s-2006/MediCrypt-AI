@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "email": "ravi@example.com",
+    "role": "patient",
+    "blood_group": "O+",
+    "allergies": ["penicillin", "sulfa"],
+    "chronic_diseases": ["diabetes", "hypertension"],
+    "emergency_contact": "+91-9876543210",
+    "emergency_contact_name": "Kavitha Kumar"
+  },
+  {
+    "name": "Dr. Priya Sharma",
+    "email": "priya@hospital.com",
+    "role": "doctor",
+    "specialization": "Cardiology",
+    "license_number": "MCI-2024-001"
+  }
+]
